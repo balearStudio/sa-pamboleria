@@ -1,0 +1,123 @@
+{
+  "source": "intake-assets",
+  "transcribedFrom": [".studio/assets/menu/menu-page-1.png", ".studio/assets/menu/menu-page-2.png"],
+  "transcribedAt": "2026-09-20",
+  "originalLanguage": "es",
+  "currency": "EUR",
+  "note": "Verbatim transcription of the printed menu photographs. Section headings on the printed menu are SPANISH (Para picar, Ensaladas, Pescado, Especialidades, Para ninos, Postres caseros) - intake notes listed Catalan headings (Per picar, Ensalades, Peix, Especialitats, Per a nens, Postres casolans). 'Pa amb Oli' and 'A la Brasa' are the same in both. ca and en versions still need translating. 'De Baicon queso' is transcribed as printed (likely a typo for 'Bacon y queso' on the client's own menu) - confirm with owner before reproducing.",
+  "sections": [
+    {
+      "id": "para-picar",
+      "title_es": "Para picar",
+      "items": [
+        { "name_es": "Croquetas variadas", "price": 9 },
+        { "name_es": "Alitas", "price": 8 },
+        { "name_es": "Chipirones", "price": 14 },
+        { "name_es": "Calamares a la andaluza", "price": 12 },
+        { "name_es": "Pimientos de Padron", "price": 8 },
+        { "name_es": "Boquerones", "price": 11 },
+        { "name_es": "Plato Jamon iberico", "price": 11 },
+        { "name_es": "Surtido Iberico", "price": 19 },
+        { "name_es": "Surtido de Quesos", "price": 17 },
+        { "name_es": "Patatas Bravas", "price": 5 },
+        { "name_es": "Allioli, pan y aceitunas", "price": 2 }
+      ]
+    },
+    {
+      "id": "pa-amb-oli",
+      "title_es": "Pa amb Oli",
+      "items": [
+        { "name_es": "De Queso curado", "price": 11 },
+        { "name_es": "De Jamon iberico", "price": 14 },
+        { "name_es": "De Pluma iberica", "price": 16 },
+        { "name_es": "De Chuletas de cordero", "price": 15 },
+        { "name_es": "De Codornices", "price": 14 },
+        { "name_es": "De Panceta", "price": 12 },
+        { "name_es": "De Sepia", "price": 14 },
+        { "name_es": "De Sepia con sobrasada", "price": 16 },
+        { "name_es": "De Pechuga de pollo", "price": 12 },
+        { "name_es": "De Verduras a la brasa", "price": 12 },
+        { "name_es": "De Serranito pechuga", "price": 12 },
+        { "name_es": "De Baicon queso", "price": 10 },
+        { "name_es": "De Escalopin", "price": 12 }
+      ]
+    },
+    {
+      "id": "a-la-brasa",
+      "title_es": "A la Brasa",
+      "items": [
+        { "name_es": "Solomillo", "price": 24 },
+        { "name_es": "Chuleton", "price": 22 },
+        { "name_es": "Entrecot", "price": 18 },
+        { "name_es": "Pluma iberica", "price": 16 },
+        { "name_es": "Solomillo de cerdo", "price": 14 },
+        { "name_es": "Chuletas de cordero", "price": 14 },
+        { "name_es": "Picanton", "price": 14 },
+        { "name_es": "Gazapo", "price": 14 },
+        { "name_es": "Codorniz", "price": 13 },
+        { "name_es": "Pechuga de pollo", "price": 12 },
+        { "name_es": "Sepia", "price": 14 },
+        { "name_es": "Sepia con sobrasada", "price": 16 },
+        { "name_es": "Hamburgesa Angus", "price": 15 }
+      ]
+    },
+    {
+      "id": "ensaladas",
+      "title_es": "Ensaladas",
+      "items": [
+        { "name_es": "Mixta", "description_es": "Lechuga, tomate y cebolla", "price": 9 },
+        { "name_es": "De pollo", "description_es": "Lechuga, tomate, cebolla, pollo y salsa rosa", "price": 12 },
+        { "name_es": "De la casa", "description_es": "Lechuga, tomate, huevo y queso de cabra con mermelada", "price": 12 }
+      ]
+    },
+    {
+      "id": "pescado",
+      "title_es": "Pescado",
+      "items": [
+        { "name_es": "Fritura de la casa", "price": 15 },
+        { "name_es": "Dorada", "price": 19 },
+        { "name_es": "Lubina", "price": 19 },
+        { "name_es": "Bacalao", "price": 21 }
+      ]
+    },
+    {
+      "id": "especialidades",
+      "title_es": "Especialidades",
+      "items": [
+        { "name_es": "Pa amb oli Mar, Tierra y Aire", "note_es": "(pp)", "price": 16 },
+        { "name_es": "Bogavante con patatas", "price": 26 },
+        { "name_es": "Parrillada de la casa", "note_es": "(pp)", "price": 19 },
+        { "name_es": "Rabo de toro", "price": 19 },
+        { "name_es": "Frito de Cordero", "price": 14 },
+        { "name_es": "Frito de Marisco", "price": 15 }
+      ]
+    },
+    {
+      "id": "para-ninos",
+      "title_es": "Para ninos",
+      "items": [
+        { "name_es": "Croquetas con patatas", "price": 8 },
+        { "name_es": "Nuggets con patatas", "price": 8 },
+        { "name_es": "Escalope con patatas", "price": 8 }
+      ]
+    },
+    {
+      "id": "postres-caseros",
+      "title_es": "Postres caseros",
+      "items": [
+        { "name_es": "Tarta tres chocolates", "price": 6.5 },
+        { "name_es": "Tarta de queso", "price": 6.5 },
+        { "name_es": "Tiramisu", "price": 6.5 },
+        { "name_es": "Tarta Banoffee", "price": 6.5 }
+      ]
+    }
+  ],
+  "logoObserved": {
+    "wordmark": "Sa Pamboleria",
+    "curvedTop": "TERRASSA · PA AMB OLI",
+    "curvedBottom": "CARNS A LA BRASA",
+    "style": "hand-lettered brush script, dark navy/near-black on white, small sprout/leaf flourish above the 'o'",
+    "note": "Printed inside both menu photographs; cleanest and largest on menu-page-2 (top-left, unobstructed). Curved taglines are set in a spaced uppercase sans."
+  },
+  "decorativeMotifs": ["olive branch with olives (watercolour, pale green/grey)", "vegetables and oil bottle along bottom edge (peppers, garlic, herbs)"]
+}

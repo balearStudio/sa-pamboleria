@@ -1,0 +1,699 @@
+{
+  "slug": "sa-pamboleria",
+  "generatedAt": "2026-09-20",
+  "identity": {
+    "name": "Sa Pamboleria",
+    "tagline": "Terrassa · Pa amb oli · Carns a la brasa",
+    "taglineSource": "assets (printed on the logo in both menu photographs) + social (Instagram post sign-off uses the same three-part line)",
+    "sector": "Mallorcan restaurant — pa amb oli, grilled meats (carns a la brasa), Mediterranean/local cuisine",
+    "sectorSource": "places (primaryType: mediterranean_restaurant), web, assets",
+    "location": {
+      "address": "Carrer de Miquel dels Sants Oliver, 6, 07300 Inca, Illes Balears, Spain",
+      "neighbourhood": "Cristo Rey, Inca",
+      "neighbourhoodSource": "social (Instagram post, 2024-05-29)",
+      "source": "places, social, web — all four sources agree on the street address"
+    },
+    "founded": null,
+    "story": null,
+    "selfDescription": {
+      "value": "Pa amb oli y Carnes Maduradas Premium",
+      "source": "social (Instagram bio, current)"
+    }
+  },
+  "services": [
+    {
+      "name": "Pa amb oli (13 varieties, €10–16)",
+      "description": "The house speciality and the first half of the brand name. Toppings from cured cheese and Iberian ham to cuttlefish with sobrassada, grilled vegetables and lamb chops.",
+      "source": "assets (menu transcription), social, web"
+    },
+    {
+      "name": "Carns a la brasa / grilled meats (13 cuts, €12–24)",
+      "description": "Charcoal-grilled: sirloin, chuletón, entrecôte, Iberian pluma, lamb chops, quail, rabbit, poussin. Instagram now frames these as 'Carnes Maduradas Premium' (dry-aged).",
+      "source": "assets (menu transcription), social"
+    },
+    {
+      "name": "Para picar / starters (€2–19)",
+      "description": "Croquettes, chipirones, Padrón peppers, Iberian and cheese platters, patatas bravas.",
+      "source": "assets (menu transcription)"
+    },
+    {
+      "name": "House specialities (€14–26)",
+      "description": "'Pa amb oli Mar, Tierra y Aire', lobster with potatoes, house parrillada, oxtail, lamb and seafood frits.",
+      "source": "assets (menu transcription), social"
+    },
+    {
+      "name": "Fish, salads, children's dishes, homemade desserts",
+      "description": "Fresh fish €15–21; salads €9–12; kids' plates €8; four homemade cakes at €6.50 (three-chocolate, cheesecake, tiramisu, banoffee).",
+      "source": "assets (menu transcription)"
+    },
+    {
+      "name": "Two covered terraces / chill-out",
+      "description": "'Terrassa' is the first word of the logo. A 2021 Instagram post advertises a chill-out terrace with cocktails; mallorca.com describes two covered terraces. Current status of the cocktail offer is unconfirmed.",
+      "source": "social, web"
+    },
+    {
+      "name": "Berenar (mid-morning meal) service",
+      "description": "Opens 8:30 Thu–Sun; a €10 'berenar' special with grilled cuttlefish and Iberian pork is cited by a review aggregator. Not on the photographed menu.",
+      "source": "places (hours), web (gavin.es)"
+    },
+    {
+      "name": "Dine-in, takeaway, delivery, free parking",
+      "description": "Listed as available services; delivery not independently confirmed.",
+      "source": "web (mallorca.com)"
+    }
+  ],
+  "toneOfVoice": {
+    "summary": "Warm, direct, family-run neighbourhood voice with no marketing polish. The restaurant's own writing is short, exclamatory and emoji-heavy — an open invitation ('¡Ven a probar…!') rather than a pitch. Customers, who write mostly in Catalan, talk about abundance, friendliness, cleanliness and value, not about refinement. The brand's own trilingual reality (Catalan logo and hours, Spanish menu and captions) is part of the character, not a problem to sand down.",
+    "traits": [
+      "warm",
+      "unpretentious",
+      "family-run",
+      "generous / abundant",
+      "local and Mallorcan first",
+      "direct and inviting",
+      "proud of produce"
+    ],
+    "languageNotes": "Split by channel and speaker: the LOGO and the printed brand line are Catalan ('Terrassa · Pa amb oli · Carns a la brasa'); the PRINTED MENU is Spanish throughout (Para picar, Ensaladas, Pescado, Para niños, Postres caseros); INSTAGRAM captions are Spanish with heavy emoji; GOOGLE REVIEWS are predominantly Catalan/Mallorquí. Dish names ('pa amb oli', 'sobrasada', 'coca') stay Catalan in every language. The site needs ca/es/en — treat Catalan as the brand's own voice and Spanish as the operational/menu voice.",
+    "source": "social, places, assets"
+  },
+  "usps": [
+    {
+      "claim": "Pa amb oli is the identity, not a side dish — 13 versions, and the restaurant is literally named after it ('pamboli' = pa amb oli).",
+      "source": "assets (menu), social (bio), web"
+    },
+    {
+      "claim": "4.3/5 from 721 Google reviews — a strong, deep local reputation for a neighbourhood restaurant.",
+      "source": "places"
+    },
+    {
+      "claim": "Premium dry-aged meat over charcoal, positioned as the second pillar alongside pa amb oli.",
+      "source": "social (Instagram bio: 'Carnes Maduradas Premium'), assets (menu 'A la Brasa')"
+    },
+    {
+      "claim": "Generous portions at honest prices — the single most repeated theme across reviews (~€20 per head).",
+      "source": "places (reviews), web"
+    },
+    {
+      "claim": "Two covered terraces and easy free parking — unusual for a town-centre restaurant and explicitly praised by reviewers.",
+      "source": "web, places (review: 'un lloc on es fàcil aparcar')"
+    },
+    {
+      "claim": "Everything homemade, including four house desserts that reviewers name individually.",
+      "source": "assets (menu: 'Postres caseros'), places (review naming all four), web"
+    },
+    {
+      "claim": "Genuinely local and Catalan-speaking — the clientele reviews in Mallorquí, which reads as authenticity rather than tourist trade.",
+      "source": "places (4 of 5 captured reviews are in Catalan)"
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "Molt bon lloc on anar a sopar, la carn feta a la brasa esta molt bona i la sípia també.\nBona atenció, molt recomanable.",
+      "author": "Pere Alemany Alomar",
+      "rating": 5,
+      "date": "2023-12-11",
+      "language": "ca",
+      "source": "places",
+      "url": null
+    },
+    {
+      "quote": "Menjar abundant i gustós i el servei molt amable i pendent de nosaltres. Un lloc on es fàcil aparcar i les instal·lacions estan molt netes. Gran varietat de carta i per a tots els gustos! Vàrem passar una nit molt agradable",
+      "author": "Liniu Siquier Capó",
+      "rating": 5,
+      "date": "2023-10-20",
+      "language": "ca",
+      "source": "places",
+      "url": null
+    },
+    {
+      "quote": "Vàrem gaudir d'un deliciós pa amb oli de presa ibèrica, sípia, cuixot salat, etc. Diverses fritures per a espigolar i variat de coques de postre: tiramisú, de formatge, banoffee i tres xocolates.",
+      "author": "Roberto Fernández Legido",
+      "rating": 5,
+      "date": "2023-11-16",
+      "language": "ca",
+      "source": "places",
+      "url": null
+    },
+    {
+      "quote": "Bona atençió dels Propietaris i cambreras, i mençió amb taulas grosas, bon menjar, empatíe i ben calentet, només falten petits detalls dins ses \"ensaledetas\" sugerençi constructive...\nEnhorebone i mantenirvós amb bona feina.",
+      "author": "Manel Cortès.",
+      "rating": 4,
+      "date": "2019-03-16",
+      "language": "ca",
+      "source": "places",
+      "url": null,
+      "note": "Transcribed exactly as written, including the author's own spelling. 4-star equivalent: rated 5 but contains a mild criticism of the salads."
+    },
+    {
+      "quote": "El menjar ha estat bo ....però han trigat casi una hora a servir-lo....la cuina massa lenta",
+      "author": "Cristina Roca",
+      "rating": 4,
+      "date": "2023-06-24",
+      "language": "ca",
+      "source": "places",
+      "url": null,
+      "note": "The one captured criticism: slow kitchen."
+    },
+    {
+      "quote": "El restaurante es sencillo, pero la comida es muy auténtica y los precios son muy razonables",
+      "author": null,
+      "rating": null,
+      "language": "es",
+      "source": "web",
+      "url": "https://gavin.es/sa-pamboleria/"
+    },
+    {
+      "quote": "simpáticas y muy amables",
+      "author": null,
+      "rating": null,
+      "language": "es",
+      "source": "web",
+      "url": "https://adictaalacarta.com/sapamboleriainca/",
+      "note": "Fragment about the waiting staff, quoted as captured by the web researcher."
+    },
+    {
+      "quote": "Good product treated very well",
+      "author": null,
+      "rating": null,
+      "language": "en",
+      "source": "web",
+      "url": "https://www.tripadvisor.com/Restaurant_Review-g1064376-d23432308-Reviews-Sa_Pamboleria-Inca_Majorca_Balearic_Islands.html"
+    }
+  ],
+  "contact": {
+    "phone": "+34 971 67 79 75",
+    "phoneAlt": {
+      "value": "666 41 66 04",
+      "source": "social (Instagram, 2021 — terrace/cocktails post; may be stale)"
+    },
+    "email": null,
+    "address": "Carrer de Miquel dels Sants Oliver, 6, 07300 Inca, Illes Balears, Spain",
+    "hours": {
+      "source": "places (returned in Catalan)",
+      "raw": [
+        "dilluns: 19:30–23:30",
+        "dimarts: Tancat",
+        "dimecres: 19:30–23:30",
+        "dijous: 8:30–15:30, 19:30–0:00",
+        "divendres: 8:30–15:30, 19:30–23:30",
+        "dissabte: 8:30–15:30, 19:30–23:30",
+        "diumenge: 8:30–15:30, 19:30–23:30"
+      ],
+      "conflict": {
+        "source": "web (TripAdvisor)",
+        "value": "Closed Mon–Tue; Wed–Fri 09:00–12:30 & 20:00–00:00; Sat–Sun 09:00–16:30 & 20:00–00:00",
+        "note": "Disagrees with Google on both the closing day pattern and the opening times. Google Places is the more likely current source, but hours MUST be confirmed with the owner before publishing."
+      }
+    },
+    "mapsUrl": "https://maps.google.com/?cid=7242375698961049659",
+    "placeId": "ChIJZz62Y8rFlxIRO6h-klMWgmQ",
+    "website": null,
+    "websiteNote": "No live website. Facebook lists 'http://Sapamboleria.com/inicio' and 2021 Instagram captions promote 'sapamboleria.es'; both domains fail DNS resolution as of 2026-09-20, so the old site is gone. Intake's existingWebsite:null is correct — nothing to crawl.",
+    "social": {
+      "instagram": "https://www.instagram.com/sapamboleriainca/",
+      "instagramFollowers": 6207,
+      "instagramPosts": 128,
+      "facebook": "https://www.facebook.com/p/Sa-Pamboleria-61552245506876/",
+      "facebookFollowers": 580,
+      "source": "social (follower counts read from the profile items themselves)"
+    }
+  },
+  "reputation": {
+    "rating": 4.3,
+    "reviewCount": 721,
+    "source": "places",
+    "businessStatus": "OPERATIONAL",
+    "corroboration": [
+      {
+        "value": "4.3 / 677 Google reviews",
+        "source": "web (mallorca.com)",
+        "note": "Older snapshot of the same Google rating."
+      },
+      {
+        "value": "4.3 / 624 Google reviews",
+        "source": "web (gavin.es)",
+        "note": "Older snapshot again — the three counts are consistent with steady review growth, not a conflict."
+      },
+      {
+        "value": "2.6 / 5 from 11 reviews, #73 of 141 restaurants in Inca",
+        "source": "web (TripAdvisor)",
+        "note": "CONFLICT. A thin, unmaintained TripAdvisor listing against 721 Google reviews. Small-n and a different (tourist) audience; Google is the reliable figure. Do not publish the TripAdvisor number, but the owner should know it exists."
+      },
+      {
+        "value": "Not yet rated (1 review)",
+        "source": "social (Facebook page)",
+        "note": "Facebook page is barely used for reviews."
+      }
+    ],
+    "praisedFor": [
+      "grilled meat and cuttlefish",
+      "abundant portions",
+      "friendly, attentive service",
+      "cleanliness",
+      "easy free parking",
+      "variety of the menu",
+      "homemade desserts"
+    ],
+    "criticisedFor": [
+      "slow kitchen at busy times (Google)",
+      "salads described as needing more care (Google)",
+      "portion-size complaints on the thin TripAdvisor listing"
+    ]
+  },
+  "visualIdentity": {
+    "colors": [
+      {
+        "value": "dark navy / near-black",
+        "role": "logo wordmark ink",
+        "source": "assets (menu photographs)"
+      },
+      {
+        "value": "white / off-white paper",
+        "role": "menu ground",
+        "source": "assets"
+      },
+      {
+        "value": "pale sage green-grey",
+        "role": "watercolour olive-branch motif on the menu",
+        "source": "assets"
+      }
+    ],
+    "colorsNote": "No brand palette exists as a document. These are observations from the printed menu only, and the menu photos have a slight lavender cast from the lighting — do not sample colours from the photograph directly.",
+    "fonts": [
+      {
+        "value": "hand-lettered brush script (custom lettering, not a licensable font)",
+        "role": "'Sa Pamboleria' wordmark",
+        "source": "assets"
+      },
+      {
+        "value": "spaced uppercase sans",
+        "role": "curved taglines 'TERRASSA · PA AMB OLI' / 'CARNS A LA BRASA'",
+        "source": "assets"
+      },
+      {
+        "value": "high-contrast serif",
+        "role": "menu section headings (Para picar, Pa amb Oli, A la Brasa…)",
+        "source": "assets"
+      },
+      {
+        "value": "geometric/humanist sans, bold",
+        "role": "menu dish names and prices",
+        "source": "assets"
+      }
+    ],
+    "logo": {
+      "available": false,
+      "description": "'Sa Pamboleria' in a hand-lettered brush script, dark navy on white, with a small sprout/leaf flourish above the 'o'. 'TERRASSA · PA AMB OLI' curves above it and 'CARNS A LA BRASA' curves below.",
+      "bestSource": ".studio/assets/menu/menu-page-1.png — the printed logo is ~350–400px wide there, clean letterforms, viable for vector tracing or AI upscaling. menu-page-2.png has it at ~250–300px, unobstructed top-left, as a secondary reference.",
+      "note": "No vector, no transparent PNG, no brand guide. A clean transparent logo asset must be produced before build. Owner suggested Magnific; route is open.",
+      "source": "assets, intake"
+    },
+    "existingSiteFeel": null,
+    "existingSiteFeelNote": "No site exists to judge. The only 'designed' brand artefact is the printed menu: olive-branch watercolour, vegetables and an oil bottle along the foot, serif headings — a warm, rustic-Mediterranean register rather than a modern one.",
+    "socialFeel": "Instagram reads as straightforward food photography with emoji-led captions; a 2021 run of posts was produced by a hired photographer/community manager (@alv_visuals) and is visibly more art-directed than the later self-shot posts.",
+    "source": "assets, social"
+  },
+  "assets": {
+    "imageCount": 33,
+    "breakdown": "2 owner-supplied menu photographs (.studio/assets/menu/) + 30 Instagram + 1 Facebook image fetched to .studio/sources/images/",
+    "usableCount": 22,
+    "heroCandidates": [
+      {
+        "file": ".studio/sources/images/ig-12.jpg",
+        "what": "Flat lay: pa amb oli, cured meats, cheese, olives, grilled fish and lamb chops filling the whole frame",
+        "why": "The strongest image in the set. Reads as genuine abundance and is the closest thing to a signature shot.",
+        "limits": "1080x1350, cropped hard to the frame edge with no negative space and no background. Works ONLY as a full-bleed background or a tight crop — it cannot be cut out, and there is no room for overlaid type without covering food.",
+        "source": "social"
+      },
+      {
+        "file": ".studio/sources/images/ig-14.jpg",
+        "what": "Charcuterie board on wood — cured meats, cheese, peppers, bread",
+        "why": "Warmest, most rustic framing; wood ground suits the brand register.",
+        "limits": "1080x1350, phone-shot.",
+        "source": "social"
+      },
+      {
+        "file": ".studio/sources/images/ig-19.jpg",
+        "what": "Close-up charcuterie with bread and olives",
+        "why": "Good texture detail for a section background.",
+        "limits": "1080x1350.",
+        "source": "social"
+      },
+      {
+        "file": ".studio/sources/images/ig-09.jpg",
+        "what": "Sliced cured meat with sea salt on black slate",
+        "why": "The only dark-ground image; the one shot with real contrast and drama.",
+        "limits": "1080x1350.",
+        "source": "social"
+      },
+      {
+        "file": ".studio/sources/images/ig-02.jpg",
+        "what": "The terrace: thatched umbrellas, wooden furniture, branded glass signage",
+        "why": "The only usable image of the place itself, and 'Terrassa' is the first word of the brand.",
+        "limits": "1080x1080 and carries a baked-in promotional text overlay that must be cropped out or covered. fb-01.jpg is the same scene at 1170x1151 with the same overlay problem.",
+        "source": "social"
+      }
+    ],
+    "paAmbOliShots": [
+      ".studio/sources/images/ig-10.jpg",
+      ".studio/sources/images/ig-12.jpg",
+      ".studio/sources/images/ig-20.jpg",
+      ".studio/sources/images/ig-30.jpg"
+    ],
+    "quality": "Mixed, and capped low. 21 'good' / 2 'usable' / 8 'poor'. Every usable image is a phone-shot Instagram square or 4:5 at 1080px wide (largest in the whole set is 1170px). Food shots are honest and appetising but tightly cropped, flat-lit and saturated; none has the negative space, clean background or resolution a large hero normally needs.",
+    "ownerHeroIdeaVerdict": "NOT ACHIEVABLE from existing assets. The owner asked for a professional pa amb oli shot, possibly with a hand reaching in, cut out on a transparent background (the tacosmyguey.com treatment). Nothing in the set can serve that: the four pa amb oli images (ig-10, ig-12, ig-20, ig-30) are all cropped to the frame edge with the plate rim cut off, on flat white or busy grounds, at 1080px. There is no hand-reaching shot at all. Routes: (a) full-bleed crop of ig-12/ig-14 instead of a cut-out, (b) paid AI generation or upscale, (c) a short photo shoot. This is an owner decision and it has budget consequences.",
+    "unusable": {
+      "count": 8,
+      "detail": "ig-01 profile picture at 320x320; ig-18 video cover with an identifiable person and heavy text overlay (privacy risk); ig-23 to ig-28 are six Uber Eats reposts carrying a visible Uber Eats watermark."
+    },
+    "documents": [
+      {
+        "name": "Printed menu (2 photographed pages)",
+        "path": ".studio/assets/menu/",
+        "transcribed": ".studio/sources/menu.json",
+        "note": "Fully transcribed: 8 sections, 57 dishes with prices, Spanish only. ca/en translations still needed."
+      }
+    ],
+    "source": "assets, social",
+    "approvedForUse": {
+      "basis": "Working assumption 2026-09-20 — rights unconfirmed, design may proceed.",
+      "count": 22,
+      "heroPrimary": ".studio/sources/images/ig-12.jpg",
+      "heroAlternate": ".studio/sources/images/ig-14.jpg",
+      "darkAccent": ".studio/sources/images/ig-09.jpg",
+      "venue": ".studio/sources/images/ig-02.jpg (crop out the baked-in promo text)",
+      "paAmbOli": [
+        "ig-10.jpg",
+        "ig-12.jpg",
+        "ig-20.jpg",
+        "ig-30.jpg"
+      ],
+      "excludedOnQualityGrounds": {
+        "files": [
+          "ig-01.jpg",
+          "ig-18.jpg",
+          "ig-23.jpg",
+          "ig-24.jpg",
+          "ig-25.jpg",
+          "ig-26.jpg",
+          "ig-27.jpg",
+          "ig-28.jpg"
+        ],
+        "why": "Not a rights question. ig-01 is a 320x320 avatar; ig-18 is a low-res video cover with heavy baked-in text over an identifiable customer; ig-23 to ig-28 are 819x655 reposts with a visible Uber Eats watermark burned into the frame."
+      }
+    }
+  },
+  "voiceSample": [
+    {
+      "phrase": "Pa amb oli y Carnes Maduradas Premium",
+      "where": "site",
+      "channel": "Instagram bio",
+      "language": "es",
+      "source": "social"
+    },
+    {
+      "phrase": "Terrassa • Pa amb oli • Carns a la brasa",
+      "where": "site",
+      "channel": "logo / Instagram post sign-off",
+      "language": "ca",
+      "source": "assets, social"
+    },
+    {
+      "phrase": "¡Ven a probar nuestros mejores platos!",
+      "where": "post",
+      "channel": "Instagram, repeated across 2023–2024",
+      "language": "es",
+      "source": "social"
+    },
+    {
+      "phrase": "¡Ven a probar nuestras deliciosas Carnes Maduradas!",
+      "where": "post",
+      "channel": "Instagram, 2024-04-11",
+      "language": "es",
+      "source": "social"
+    },
+    {
+      "phrase": "Pa amb oli mar, tierra y aire",
+      "where": "post",
+      "channel": "Instagram, 2023-09-27",
+      "language": "es",
+      "source": "social"
+    },
+    {
+      "phrase": "Nuestra terraza lista para vosotr@s",
+      "where": "post",
+      "channel": "Instagram, 2021-11-20",
+      "language": "es",
+      "source": "social"
+    },
+    {
+      "phrase": "VERANO RICO VERANO",
+      "where": "post",
+      "channel": "Instagram, 2021-07-03",
+      "language": "es",
+      "source": "social"
+    },
+    {
+      "phrase": "Menjar abundant i gustós i el servei molt amable i pendent de nosaltres.",
+      "where": "review",
+      "channel": "Google",
+      "language": "ca",
+      "source": "places"
+    },
+    {
+      "phrase": "la carn feta a la brasa esta molt bona i la sípia també",
+      "where": "review",
+      "channel": "Google",
+      "language": "ca",
+      "source": "places"
+    },
+    {
+      "phrase": "Un lloc on es fàcil aparcar i les instal·lacions estan molt netes.",
+      "where": "review",
+      "channel": "Google",
+      "language": "ca",
+      "source": "places"
+    },
+    {
+      "phrase": "Gran varietat de carta i per a tots els gustos!",
+      "where": "review",
+      "channel": "Google",
+      "language": "ca",
+      "source": "places"
+    },
+    {
+      "phrase": "Vàrem gaudir d'un deliciós pa amb oli de presa ibèrica, sípia, cuixot salat, etc.",
+      "where": "review",
+      "channel": "Google",
+      "language": "ca",
+      "source": "places"
+    },
+    {
+      "phrase": "El restaurante es sencillo, pero la comida es muy auténtica y los precios son muy razonables",
+      "where": "review",
+      "channel": "gavin.es aggregator",
+      "language": "es",
+      "source": "web"
+    },
+    {
+      "phrase": "carnes a la brasa, pa amb oli y cocina mallorquina",
+      "where": "press",
+      "channel": "mallorca.com directory description",
+      "language": "es",
+      "source": "web"
+    },
+    {
+      "phrase": "Pa amb olis espectaculares en Mallorca",
+      "where": "post",
+      "channel": "Instagram, 2024-04-08 (reposted creator video, 692 likes)",
+      "language": "es",
+      "source": "social"
+    }
+  ],
+  "press": [
+    {
+      "title": "ADICTA A LA CARTA — restaurant review",
+      "url": "https://adictaalacarta.com/sapamboleriainca/",
+      "type": "food blog review",
+      "note": "The only editorial-style write-up found: menu analysis, pa amb oli variations, €7–16 pricing, ~€20 per head."
+    },
+    {
+      "title": "Mallorca.com directory listing",
+      "url": "https://www.mallorca.com/es/directorio/empresa/sa-pamboleria-inca-klmwgmq",
+      "type": "tourism directory"
+    },
+    {
+      "title": "Gavin.es review aggregator",
+      "url": "https://gavin.es/sa-pamboleria/",
+      "type": "aggregator"
+    },
+    {
+      "title": "TripAdvisor listing",
+      "url": "https://www.tripadvisor.com/Restaurant_Review-g1064376-d23432308-Reviews-Sa_Pamboleria-Inca_Majorca_Balearic_Islands.html",
+      "type": "directory"
+    },
+    {
+      "title": "MallorcaGuide.com listing",
+      "url": "https://mallorcaguide.com/en/places/5267/sa-pamboleria/",
+      "type": "tourism directory"
+    },
+    {
+      "title": "Sluurpy directory",
+      "url": "https://es.sluurpy.com/inca/restaurante/7963446/sa-pamboleria",
+      "type": "directory"
+    },
+    {
+      "title": "Restaurant Guru — Inca",
+      "url": "https://restaurantguru.com/Sa-Pamboleria-Inca-2",
+      "type": "directory"
+    }
+  ],
+  "gaps": [
+    {
+      "field": "imageRights",
+      "reason": "Every photograph on the site comes from the client's own Instagram/Facebook, fetched by scraper. The 2021 run was shot by a hired photographer/community manager (@alv_visuals, credited in-caption), six images are Uber Eats reposts with a visible watermark, and at least one popular post is a reposted creator video. DECISION 2026-09-20: rights are assumed granted so design can proceed; the owner will confirm later.",
+      "severity": "useful",
+      "fix": "Before launch, owner confirms which images are theirs to use and whether the 2021 photographer's work was bought out. Unchanged regardless of rights: ig-23 to ig-28 stay out because the Uber Eats watermark is visibly on the image, and ig-18 stays out because it is a 720x1280 video cover with heavy text overlay showing an identifiable customer.",
+      "status": "assumed-ok-pending-confirmation"
+    },
+    {
+      "field": "heroImage",
+      "reason": "The owner's stated hero — a cut-out pa amb oli, ideally with a hand reaching in, on a transparent background — cannot be produced from any existing asset. Best available imagery is 1080px, edge-cropped and flat-lit.",
+      "severity": "useful",
+      "fix": "DECIDED: full-bleed crop of ig-12 (abundant flat lay) or ig-14 (charcuterie on wood), treated at 1080px. The owner's cut-out pa amb oli remains unavailable unless a shoot or paid generation is funded later.",
+      "status": "resolved-by-decision"
+    },
+    {
+      "field": "logo",
+      "reason": "No vector, transparent or high-resolution logo exists anywhere. It survives only as printed artwork inside the two menu photographs, ~350-400px wide at best.",
+      "severity": "blocking",
+      "fix": "Produce a clean transparent asset by vector-tracing or AI-upscaling menu-page-1.png, or ask the owner whether the designer who made the menu still has the source file — that would be the cheapest and best outcome and has not been asked."
+    },
+    {
+      "field": "openingHours",
+      "reason": "Google Places and TripAdvisor disagree on both the closing days and the times. Google says Tuesday closed with Monday evening service; TripAdvisor says Monday AND Tuesday closed with different hours. Publishing wrong hours for a restaurant is a real-world harm.",
+      "severity": "blocking",
+      "fix": "Owner confirms current hours, including whether the 8:30 'berenar' service still runs and on which days."
+    },
+    {
+      "field": "menuCurrency",
+      "reason": "The transcribed menu comes from an undated photograph. Prices and dishes may be out of date, and the Instagram bio now leads with 'Carnes Maduradas Premium' (dry-aged), which the printed menu does not mention.",
+      "severity": "blocking",
+      "fix": "Owner confirms the menu is current, and supplies any dry-aged/premium cuts and the ~EUR 10 'berenar' offer if those should appear."
+    },
+    {
+      "field": "menuTranslations",
+      "reason": "The printed menu is Spanish only; the site ships ca/es/en. Dish names need a proper Catalan and English version, and the printed menu's own section headings are Spanish while the logo and the customer base are Catalan.",
+      "severity": "useful",
+      "fix": "Translate at copy stage, then have the owner check the Catalan — this is their own language and errors would be conspicuous locally."
+    },
+    {
+      "field": "menuTypo",
+      "reason": "'De Baicon queso' (EUR 10) appears that way on the printed menu; it is very likely meant to be 'Bacon y queso'. Also 'Hamburgesa Angus' (single 'b').",
+      "severity": "minor",
+      "fix": "Confirm with the owner before reproducing — do not silently correct their menu, but do not copy an error onto a new site either."
+    },
+    {
+      "field": "story / founded",
+      "reason": "No founding date, no owner names, no origin story from any source. A family-run restaurant's 'about' section has nothing factual to stand on.",
+      "severity": "useful",
+      "fix": "Ask the owner: who runs it, since when, and why they opened. Reviews mention 'els Propietaris' warmly, so there is a story worth telling."
+    },
+    {
+      "field": "email",
+      "reason": "No email address in any source. Phone and walk-in only, and there is no booking system anywhere.",
+      "severity": "useful",
+      "fix": "Ask the owner for a contact email and whether they want a booking form or just a phone link."
+    },
+    {
+      "field": "crawl",
+      "reason": "Source skipped: no website to crawl. Intake recorded none, and both domains referenced by the client's own channels (Sapamboleria.com on Facebook, sapamboleria.es in 2021 Instagram captions) fail DNS resolution.",
+      "severity": "minor",
+      "fix": "None needed. Worth telling the owner their Facebook still advertises a dead domain, and asking whether they still hold either name."
+    },
+    {
+      "field": "reviewDepth",
+      "reason": "The official Google Places API returns at most 5 reviews, so the voice sample rests on 5 of 721 reviews plus a handful of aggregator quotes. All 5 captured reviews are Catalan and 4 of them are from 2023 or earlier.",
+      "severity": "useful",
+      "fix": "Structural API limit, not a failure. More could be read manually from the Maps listing if the copy stage needs a wider sample."
+    },
+    {
+      "field": "socialPostSample",
+      "reason": "The Instagram scrape returned the profile plus only 12 recent posts out of 128, and one of those had an empty caption. Captions are formulaic ('Ven a probar...'), so the brand's own written voice is thinly evidenced.",
+      "severity": "useful",
+      "fix": "Accept; lean on review voice instead, which is far richer."
+    },
+    {
+      "field": "press",
+      "reason": "No coverage in Mallorcan press, no awards, no guide listings. Only one food blog and six directory aggregators.",
+      "severity": "minor",
+      "fix": "None. Normal for a neighbourhood restaurant; do not manufacture a 'as featured in' section."
+    },
+    {
+      "field": "tripAdvisorRating",
+      "reason": "A stale TripAdvisor listing shows 2.6/5 from 11 reviews against Google's 4.3/5 from 721, and ranks them #73 of 141 in Inca.",
+      "severity": "minor",
+      "fix": "Do not publish it. Flag to the owner that it exists and is worth claiming or correcting."
+    }
+  ],
+  "lowConfidence": [
+    {
+      "field": "contact.phoneAlt",
+      "reason": "The second number 666 41 66 04 appears only in a single 2021 Instagram post about the chill-out terrace. May be a personal or discontinued line — do not publish without confirmation."
+    },
+    {
+      "field": "services.terrace-cocktails",
+      "reason": "The cocktail/chill-out offer is evidenced by one 2021 post only. Nothing since suggests it still runs."
+    },
+    {
+      "field": "services.berenar",
+      "reason": "The ~EUR 10 'berenar' special comes from one aggregator (gavin.es) of unknown date and is not on the printed menu. The 8:30 opening hours do corroborate a morning service."
+    },
+    {
+      "field": "services.delivery",
+      "reason": "Delivery is listed by mallorca.com and the Uber Eats watermarked reposts imply a platform presence, but nothing confirms it is still active."
+    },
+    {
+      "field": "visualIdentity.colors",
+      "reason": "Read off a photograph of a menu under warm indoor light with a visible lavender cast. Indicative of the brand's register only; not sampleable as brand values."
+    },
+    {
+      "field": "identity.tagline",
+      "reason": "'Terrassa · Pa amb oli · Carns a la brasa' is the printed logo lockup, used by the restaurant as a sign-off. Treating it as the site tagline is a reasonable reading, not a stated brand line."
+    },
+    {
+      "field": "reputation.praisedFor",
+      "reason": "Derived from 5 Google reviews plus aggregator summaries, not from a systematic read of 721 reviews."
+    }
+  ],
+  "sourcesRun": {
+    "crawl": "skipped",
+    "crawlReason": "No existing website. Intake recorded none; Facebook's 'Sapamboleria.com' and Instagram's 'sapamboleria.es' both fail DNS resolution — the old site is offline.",
+    "places": "ok",
+    "social": "ok",
+    "web": "ok",
+    "assets": "ok",
+    "menuTranscription": "ok",
+    "imageFetch": "ok"
+  },
+  "costEur": 0.0626,
+  "budgetEur": 3,
+  "decisions": [
+    {
+      "at": "2026-09-20",
+      "by": "studio (owner confirmation pending)",
+      "decision": "Proceed using the best available scraped social imagery. Reuse rights are ASSUMED GRANTED for now; the client will confirm what may and may not be used at a later stage.",
+      "scope": "research -> moodboard/design/build",
+      "mustConfirmBeforeLaunch": true,
+      "note": "This unblocks design work. It does NOT unblock going live: rights must be confirmed with the owner before the site is public."
+    },
+    {
+      "at": "2026-09-20",
+      "by": "studio",
+      "decision": "Hero will be built from existing imagery (full-bleed crop of ig-12 or ig-14) rather than the owner's cut-out pa amb oli idea, which no existing asset can support. Paid generation is not being spent on the hero at this stage.",
+      "scope": "design/media",
+      "mustConfirmBeforeLaunch": true,
+      "note": "Reversible. If the owner later funds a shoot or generation, the cut-out product-showcase treatment from the tacosmyguey.com reference becomes available again."
+    }
+  ]
+}

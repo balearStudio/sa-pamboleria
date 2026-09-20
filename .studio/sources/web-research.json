@@ -1,0 +1,69 @@
+{
+  "fetchedAt": "2026-09-20T16:30:00Z",
+  "findings": [
+    {
+      "type": "directory",
+      "title": "TripAdvisor Listing - Sa Pamboleria, Inca",
+      "url": "https://www.tripadvisor.com/Restaurant_Review-g1064376-d23432308-Reviews-Sa_Pamboleria-Inca_Majorca_Balearic_Islands.html",
+      "date": null,
+      "summary": "TripAdvisor profile showing 2.6/5 stars (11 reviews), ranked #73 of 141 restaurants in Inca. Includes operating hours (Mon-Tue closed; Wed-Fri 9am-12:30pm & 8pm-12am; Sat-Sun 9am-4:30pm & 8pm-12am), phone (+34 971 67 79 75), and customer reviews highlighting both positive (quality meat, attentive staff, welcoming atmosphere) and negative feedback (portion sizes, pricing concerns).",
+      "quote": "Good product treated very well"
+    },
+    {
+      "type": "directory",
+      "title": "Mallorca.com Directory Listing",
+      "url": "https://www.mallorca.com/es/directorio/empresa/sa-pamboleria-inca-klmwgmq",
+      "date": null,
+      "summary": "Official Mallorca tourism directory listing with business description, address (Carrer de Miquel dels Sants Oliver 6, 07300 Inca), phone, hours, and Google rating of 4.3/5 (677 reviews). Describes cuisine as 'carnes a la brasa, pa amb oli y cocina mallorquina' with mention of two covered terraces, dietary accommodations, and additional services.",
+      "quote": "carnes a la brasa, pa amb oli y cocina mallorquina"
+    },
+    {
+      "type": "mention",
+      "title": "ADICTA A LA CARTA - Restaurant Review",
+      "url": "https://adictaalacarta.com/sapamboleriainca/",
+      "date": null,
+      "summary": "Food review blog featuring detailed menu analysis with specific pa amb oli variations (roasted peppers & anchovies, cuttlefish, Iberian pork, Mahón cheese) and pricing breakdown (€7-16 per dish). Notes homemade desserts, friendly staff, and family-friendly facilities. Prices average €20 per person.",
+      "quote": "simpáticas y muy amables"
+    },
+    {
+      "type": "mention",
+      "title": "Gavin.es - Restaurant Review & Ratings",
+      "url": "https://gavin.es/sa-pamboleria/",
+      "date": null,
+      "summary": "Review aggregator showing 4.3/5 stars from 624 Google reviews. Highlights authentic Mediterranean cuisine at reasonable prices, signature 10€ 'berenar' special with grilled cuttlefish and Iberian pork, praised three-chocolate cake dessert, and owner generosity (complimentary shots). Describes atmosphere as welcoming with beautiful terrace.",
+      "quote": "El restaurante es sencillo, pero la comida es muy auténtica y los precios son muy razonables"
+    },
+    {
+      "type": "directory",
+      "title": "Sluurpy.com Directory & Reviews",
+      "url": "https://es.sluurpy.com/inca/restaurante/7963446/sa-pamboleria",
+      "date": null,
+      "summary": "Restaurant directory listing with customer reviews, menu details, and photos. Includes pricing and availability information for pa amb oli specialties and grilled meats. Aggregates user ratings and comments about the establishment.",
+      "quote": null
+    },
+    {
+      "type": "directory",
+      "title": "MallorcaGuide.com Listing",
+      "url": "https://mallorcaguide.com/en/places/5267/sa-pamboleria/",
+      "date": null,
+      "summary": "Tourism guide entry describing Sa Pamboleria as a Mediterranean restaurant specializing in grilled meats and traditional Mallorcan cuisine. Notes casual, local atmosphere with terrace seating and describes the place as an authentic neighborhood dining spot.",
+      "quote": null
+    },
+    {
+      "type": "directory",
+      "title": "Restaurant Guru - Inca Directory",
+      "url": "https://restaurantguru.com/Sa-Pamboleria-Inca-2",
+      "date": null,
+      "summary": "Restaurant aggregator and reviews platform featuring Sa Pamboleria among Inca dining options. Provides menu information, customer feedback, and dining experience details.",
+      "quote": null
+    }
+  ],
+  "gaps": [
+    "No press coverage found from major Mallorcan newspapers (Diario de Mallorca, Última Hora, dBalears, Ara Balears)",
+    "No awards or recognitions documented",
+    "No food blog features or interviews in specialized culinary publications",
+    "Social media presence (Instagram: @sapamboleriainca, Facebook) not independently verified through web search",
+    "No mention in international food guides or major travel publications beyond aggregator sites",
+    "Limited historical press or promotional coverage online"
+  ]
+}

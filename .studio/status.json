@@ -1,6 +1,6 @@
 {
   "slug": "sa-pamboleria",
-  "stage": "intake",
+  "stage": "research",
   "stages": [
     "intake",
     "research",
@@ -13,9 +13,9 @@
   ],
   "checkpoints": {
     "checkpoint-1-research": {
-      "status": "pending",
-      "approvedBy": null,
-      "approvedAt": null
+      "status": "approved",
+      "approvedBy": "admin",
+      "approvedAt": "2026-09-20T18:27:52.156Z"
     },
     "checkpoint-2-moodboard": {
       "status": "pending",
@@ -43,8 +43,20 @@
       "stage": "intake",
       "event": "init",
       "note": null
+    },
+    {
+      "at": "2026-09-20T15:53:22.109Z",
+      "stage": "research",
+      "event": "stage-change",
+      "note": null
+    },
+    {
+      "at": "2026-09-20T18:27:52.158Z",
+      "stage": "research",
+      "event": "checkpoint-approved:checkpoint-1-research",
+      "note": null
     }
   ],
   "createdAt": "2026-09-20T15:46:41.535Z",
-  "updatedAt": "2026-09-20T15:46:41.536Z"
+  "updatedAt": "2026-09-20T18:27:52.158Z"
 }

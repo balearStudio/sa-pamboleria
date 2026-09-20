@@ -1,0 +1,33 @@
+{
+  "root": "menu",
+  "images": [
+    {
+      "file": "menu/menu-page-1.png",
+      "width": 1030,
+      "height": 1300,
+      "bytes": 1167921,
+      "resolution": "low",
+      "quality": "usable",
+      "notes": "Photographed menu page (portrait). Sharp text, fully legible pricing and dish descriptions. No glare. Minimal perspective distortion. Features prominent 'Sa Pamboleria' printed script wordmark (dark navy on light lavender background) with 'TERRASSA · PA AMB OLI' curved above and 'CARNS A LA BRASA' curved below. Logo dimensions approx. 350–400px wide within photo; clean letterforms and curves suitable for vector tracing/upscaling.",
+      "suggestedUse": "Menu reference; logo extraction source (primary)"
+    },
+    {
+      "file": "menu/menu-page-2.png",
+      "width": 1094,
+      "height": 1406,
+      "bytes": 855377,
+      "resolution": "low",
+      "quality": "usable",
+      "notes": "Photographed menu page (portrait continuation). Sharp text, fully legible. Clean, minimal distortion. Contains same 'Sa Pamboleria' logo in top-left corner, smaller than page 1 (approx. 250–300px wide); same script style and curve treatment. Clean but page 1 is preferred for logo vectorization due to larger size.",
+      "suggestedUse": "Menu reference; logo reference (secondary)"
+    }
+  ],
+  "documents": [],
+  "skipped": 0,
+  "gaps": [
+    "No standalone vector or raster logo asset provided.",
+    "Logo exists only as printed element within menu photographs.",
+    "No brand guide, photography, or lifestyle assets.",
+    "Neither image qualifies as hero: both are document photos, not atmospheric/hero photography suitable for banner/hero use."
+  ]
+}

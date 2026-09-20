@@ -1,0 +1,170 @@
+{
+  "fetchedAt": "2026-09-20T15:53:40.895Z",
+  "query": "Sa Pamboleria Inca, Mallorca",
+  "candidates": [
+    {
+      "id": "ChIJZz62Y8rFlxIRO6h-klMWgmQ",
+      "name": "Sa Pamboleria",
+      "address": "Carrer de Miquel dels Sants Oliver, 6, 07300 Inca, Illes Balears, Espanya"
+    }
+  ],
+  "place": {
+    "id": "ChIJZz62Y8rFlxIRO6h-klMWgmQ",
+    "name": "Sa Pamboleria",
+    "address": "Carrer de Miquel dels Sants Oliver, 6, 07300 Inca, Illes Balears, Espanya",
+    "phone": "+34 971 67 79 75",
+    "website": null,
+    "mapsUrl": "https://maps.google.com/?cid=7242375698961049659&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "location": {
+      "latitude": 39.7178475,
+      "longitude": 2.9003555
+    },
+    "rating": 4.3,
+    "reviewCount": 721,
+    "primaryType": "mediterranean_restaurant",
+    "types": [
+      "mediterranean_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "businessStatus": "OPERATIONAL",
+    "priceLevel": "PRICE_LEVEL_MODERATE",
+    "summary": null,
+    "openingHours": [
+      "dilluns: 19:30–23:30",
+      "dimarts: Tancat",
+      "dimecres: 19:30–23:30",
+      "dijous: 8:30–15:30, 19:30–0:00",
+      "divendres: 8:30–15:30, 19:30–23:30",
+      "dissabte: 8:30–15:30, 19:30–23:30",
+      "diumenge: 8:30–15:30, 19:30–23:30"
+    ],
+    "reviews": [
+      {
+        "author": "Pere Alemany Alomar",
+        "rating": 5,
+        "publishedAt": "2023-12-11T14:58:42.514710Z",
+        "text": "Molt bon lloc on anar a sopar, la carn feta a la brasa esta molt bona i la sípia també.\nBona atenció, molt recomanable."
+      },
+      {
+        "author": "Liniu Siquier Capó",
+        "rating": 5,
+        "publishedAt": "2023-10-20T20:54:38.439982Z",
+        "text": "Menjar abundant i gustós i el servei molt amable i pendent de nosaltres. Un lloc on es fàcil aparcar i les instal·lacions estan molt netes. Gran varietat de carta i per a tots els gustos! Vàrem passar una nit molt agradable"
+      },
+      {
+        "author": "Roberto Fernández Legido",
+        "rating": 5,
+        "publishedAt": "2023-11-16T16:44:35.919712Z",
+        "text": "Vàrem gaudir d'un deliciós pa amb oli de presa ibèrica, sípia, cuixot salat, etc. Diverses fritures per a espigolar i variat de coques de postre: tiramisú, de formatge, banoffee i tres xocolates."
+      },
+      {
+        "author": "Manel Cortès.",
+        "rating": 5,
+        "publishedAt": "2019-03-16T23:01:35.599363Z",
+        "text": "Bona atençió dels Propietaris i cambreras, i mençió amb taulas grosas, bon menjar, empatíe i ben calentet, només falten petits detalls dins ses\" ensaledetas\" sugerençi constructive...\nEnhorebone i mantenirvós amb bona feina."
+      },
+      {
+        "author": "Cristina Roca",
+        "rating": 4,
+        "publishedAt": "2023-06-24T07:21:51.005187Z",
+        "text": "El menjar ha estat bo ....però han trigat casi una hora a servir-lo....la cuina massa lenta"
+      }
+    ],
+    "photos": [
+      {
+        "name": "places/ChIJZz62Y8rFlxIRO6h-klMWgmQ/photos/AVoNoXSQOUuhppGETt-oGdsQiXGkyuwxZzcUjEio5vme-o23sf7L6sH6XSLnzvVf4sSK837oHDCSaGey9nVdBybIrOsNpUZzipcrVGCv0iDUh80tY5ox5bP6AuPI-8uuxK0-nZJ2ApcFkfAZtQ6Nsq_jSx5n3ZywKZSSrfdVmUro6bwkwoCVkJ1Ll8cY2BwfIELSKbB-ALSnwEIQKDGj4qSMxrIIl_dbEWkOUaysdpWuBGUHMkgQiyJtJnWLxG30fUT9JZO7McOi7p0ey_jv78FNNP7NeZ21KZVj8gh5wWWj2_G-GYQOD_6PViFmTVT657rQi_UY1zCpOf3decMlG01TMS6z5VI88dnAZLcNXL-E3om3fabA5HDMF1NkbnxXFsj0YMAOhqPdqcgUI8DAgZGfL9v0QPc",
+        "widthPx": 832,
+        "heightPx": 494,
+        "attributions": [
+          "Sa Pamboleria"
+        ]
+      },
+      {
+        "name": "places/ChIJZz62Y8rFlxIRO6h-klMWgmQ/photos/AVoNoXTG2MagItTpuEkHEWENLQoOgYboWWDjP-vm2roSYLF7nVRbRUwfuESoxO6oj3HxSP5ueZP6ytwhOcf6b5u_oKdL8j7lAVxA29vspTTS5YiUnpRhqThNsCUQRf6vBtnlZIy8RYNB1MEyXgVkCUVB-jUnu53cR8MLCoba0S-JlGv18ZFmD9vBh7bnCb2KPY0t5bfGjbSqRAm-sm9xVKpInOkeEq6SMjgkcrkv09URv32ChYxFYhU16ZOiWmDonaplnjE5kjdMrSsTQRhlSJVz12jw41q4L50xr5Pnpt4kDXbb0otMVtg8YHDpVdV0hWGVgUa-ok6YqcMquC0y9c6KhQpWNgqUons0KXODFN5zgulKSAzT92JM--lPtK8ZO9XJPLUPS2_eeXhp7-iZlw4_MCrT5NN6",
+        "widthPx": 878,
+        "heightPx": 532,
+        "attributions": [
+          "Sa Pamboleria"
+        ]
+      },
+      {
+        "name": "places/ChIJZz62Y8rFlxIRO6h-klMWgmQ/photos/AVoNoXQqizz0J3EobWb3ZX4U5KnZhmB2kzTWBD1GrZp5nySRh8bOyvn7aHTHkkfT5q85CGmCfk0CQ9_foOdqFl59CVqHLVouyyushNvObUFRMBTM2--cngWuAFFuCubeqRngrZIuo0F8hqcJ6HMcPoWK9-fJK80MXGEQFNJxYNXEPTxJR_paGQcOTomo8sLp6O4ODE-Srd-97UNcju4WpIxahPrTdhWbJilcvHq6srKX5oZ43Bm_gkulMJeQn1FvwecZhkCYLlEPIIRidV4JMda_T3pI1hkruzYQFu030nwKx5QGNOUgC_X1F5KK7mE2t2sZ6XRCohkZPXY3qHX1db7NHjyTjf3zj--vi_iKUiQFLApmxwnBWxWT9pS2WF1-ZzK_WLzaHQEIoVtNMmCH_ovxg0mPkw",
+        "widthPx": 3072,
+        "heightPx": 4096,
+        "attributions": [
+          "Pere Alemany Alomar"
+        ]
+      },
+      {
+        "name": "places/ChIJZz62Y8rFlxIRO6h-klMWgmQ/photos/AVoNoXTxOl1dcNalu1NEI0ebVmWw8U8fFh14jAOIcP5NsmQTGlZUvantr5WWYpjMq3nRKY-HZFjpuXuUZpQnPkS5NOjQJNsGuduBtl94pecD7-KiDScODvHs2qVIACVUmdN7-paT4NgZ-OEkSOjXqiBUbvIDdtQYzsV0McewFAlXMHvIMTfkWoi7naohohPpT9XftbFO05wKo7T6GG99Ma82ZpqN9G_y3TZVIregj_WE6PinQxczeGTZw2huWN6rHP4sHIJSBEPN1Jg192eEN1_qYWglbvVxI9oMGHgbOlnwF5xrHZLGEvRWrBmu_-1wW_gGxo8ON1Cix0UWtYYhi9cM3EzuWlszfYEVKbTP5zMSKvqMrJGimpMvSLDHb91OCBhR7Hg3Ajb5AHSfE-QtSDT1BV6A2lfhU8kJvqTjazBAwMCnwg",
+        "widthPx": 2992,
+        "heightPx": 2992,
+        "attributions": [
+          "SIRLAXX"
+        ]
+      },
+      {
+        "name": "places/ChIJZz62Y8rFlxIRO6h-klMWgmQ/photos/AVoNoXQC2Zsr48SZ1XuWVWvaWVlAXfF2P0HH0IBmblwSOu3xmCtBrcblgH1wV2oEFg-fpc9eSiIIOQ9NhqjQ_87hhMVUciG9Aj-7oWD_x6GCfdljH55nVubSOYNeLMbLMTq8OM_WKvoJjxp41mpKOEJbM7GcEC0bf1OIuY1N70pVE3SnWEp6cTk8AlXYibSmq8FmJvG4psqKtnk0jN5kI59rg99wT2CzLFzHSd2Ywp-NHgU93ZrXz8KUAEGYcczBsfCsJZUp-hIj_DVup8vm7oKKLqlibOQx222B9-LDLyXMdJI0vysZ9oEoC0rfNKFyIvO7j3sMOid2-aMTOmYcuy9Z8dUt2meoQKSjqP5Wk5A449XytRpyt1Usf7zJkuKZ8psQzHkHsvozeovk4ZO_hClJ-zGGpCfnUkHzi4RnGsWyVmTpcw",
+        "widthPx": 4624,
+        "heightPx": 3468,
+        "attributions": [
+          "juan calafat"
+        ]
+      },
+      {
+        "name": "places/ChIJZz62Y8rFlxIRO6h-klMWgmQ/photos/AVoNoXQZ8JOsj4C8V0OD1FLsD5yZ9Ziwhwfn8-hwL2cJke26h0FMTA8UGRy2YyX9pBR3Y0jrydb7puH78KIKviTfkRyZgMWsUnvP0Kfg98iE8ygw0VZjz0rUSNiLnCauRrXVbTdBzgmKSq1EmNT7Mvh_Kzs4FM3AWUVgfidiAtkASvKmXgIdzmfg8rYWAePy6SGvPuHkqzzl7vSP2iMubeEgS-bNfsq2eRig54gMCcJdUrAkvaKksC9h9DMGoZG9_XpmFrdS9yv5HndIpzuhDk1BALAB1GD6IU56Snt6lMl6BhFwNnX1AuaP8pkQgXE_oLoy1r6-fGt58C0FwP7HMyMihlYkblluKbCfQjw7K6vBV9tznAv7yX58P217oXmhH-Oixj7cahg6k1CsqYyrse6oXL8yjakc",
+        "widthPx": 2048,
+        "heightPx": 1536,
+        "attributions": [
+          "Samy CHAGOUR"
+        ]
+      },
+      {
+        "name": "places/ChIJZz62Y8rFlxIRO6h-klMWgmQ/photos/AVoNoXThO9CI9KPMkKCXfazj3MiFxWBqEkLYrPYn5o7_Wz7Whkag5qvsaFeCiHXZZeH0Hmj_NmIXrYEo_CcsocOCT8aJYAWvOenwcJGqVNgNxxbkYnJaQMjzRKRuWr7cDngLJqBHW1JI2zGz0m2wnOWHxddbfQhycvS5DwSfJXr7RODRhjJWBqqa3J-3qCKPRMEMPb1QL6aydrfEqrPTQbxOm62EP2bI6zToT7XRJ9uWMCWrpVk0BchDU4T8isKO6bPYxYoI_esmZPLyXnhmD7QEz9RpnlHbA186vW-vnXc5Ul2UqSJyQUHek2yK_q9-XLGs3fbqsEMK4TBhxXM2Gy_dGgcL4Q1h6v6LkVDGu_t4-vI3bzf8nDDnHegqddX2A99L4yY0sWwBZ5KsJdSOHqKjqRQPjf8s6WoNCqUKeatHd3Vg",
+        "widthPx": 2992,
+        "heightPx": 2992,
+        "attributions": [
+          "SIRLAXX"
+        ]
+      },
+      {
+        "name": "places/ChIJZz62Y8rFlxIRO6h-klMWgmQ/photos/AVoNoXQDmV3mNrGjmpog3HHVYGo63sl51to6HG2nBJfujHHu3_skHTRG4jLofWSBtXbxonqtga_pEJt1oHjytw4ZqZnPw5gunR5youUXIF_z-_Lgy-xNRDO1tjN4o7hmnZshdQE1kwps3ijfCD6RbEWylX6cmM3NHDSy_xd8ErtjNz5sba3JjfsHhOHxxt55gBPK4exIebzN7py2eOvocfPqMhY6sOBujA1M7ovNyR0qauqcCuNzDmv9R1DLe6iSSG8ZvSdLh2P2wPcpBneekgmvKIXlvfDnN7bcRCuaRYtlGfPqW15RvFsJEpaVY5udopk6sB4BxlHIaDgu-mty5zY0KY3KaA8XcWI8BHlybjb3L40hhDrtOWhaQe3ubIz_bunUdlc_JmPpb7VoGDiWWHGHPCXaFw",
+        "widthPx": 4032,
+        "heightPx": 3024,
+        "attributions": [
+          "MicerStudio"
+        ]
+      },
+      {
+        "name": "places/ChIJZz62Y8rFlxIRO6h-klMWgmQ/photos/AVoNoXRZGIJk2pS6B7wU1zh9XcC8MAhx83DwpI2U1m7umbPLsiADFse4eDH9LY4Dw4HPawwoGvWSnbalof7WMoQdVEU-ABOU12a5pSY3pOPf5diLBnj5ugEbEbrrEJEcSE1hwRhOxMfszJEQV9DQeKwYLmtxt3Xx1y74ZoqauzNiO5AVYLV-qr0hqsEse1GbfDba3LsKXmNSLS4ggr6oKTvDjYtJnVfL4rwOuFygV9OslZAhWNSunv07n5dZSTeh6NcZHCFS8vJeUo7jFrxIAFf9Qs9HZeMPkT4NzCI7RzqFkClNf5BX9vggig9Mp8wdVOcwClvD2MTq12L6v_n_A1UY7ZtNtm8cBaKK4Lsnqd1OXfsmNmGasREqzD7JhZdSndvxXCWAivLIA59EoDUSVjP0SOGVyGvTn1BWoUM4-sWMnlcmAQ",
+        "widthPx": 4000,
+        "heightPx": 2252,
+        "attributions": [
+          "Afro"
+        ]
+      },
+      {
+        "name": "places/ChIJZz62Y8rFlxIRO6h-klMWgmQ/photos/AVoNoXSM7U1VimxRXIFvxkH55yxsqAjcXJwm6MNYlMGqTipeQ5Dt4M2LCHDYmVxf5rnij9Dh5FW5oBenqeVjMLuMT37CF-luJwKgkGYXvNPdPB5cw72HWHQtH96q-hVYo-I4LNcxkABh9ICqNFUd_UCm3YLZmf9Il0WJUpaZDUHi1oP8yvBT0mT9xrwyQRLRyAWRyi0rGKbBuIzNt16q6Sn-w1wi0GSH6niVxoqo35hwrZB0C1vhHKLpM1PgAd3DjBTMiPLwwAY5EHzCdpSIsYa-mhMfyqM7vmXf_7xmDQl24BW-eqZFTT0_PQuBkcmC-mMtYYZTEEBOksVp5ebm8yKmiC7egOb_YoW6ck0aVwZ803U3ry4XVA3wVjiIL9Q6pPfAow8hx4DrspuFqmQk7DnZ-FJcNNdD",
+        "widthPx": 3600,
+        "heightPx": 4800,
+        "attributions": [
+          "Kooo Nono"
+        ]
+      }
+    ]
+  },
+  "limits": "Official Places API returns at most 5 reviews and a limited number of photos; not the full review history.",
+  "cost": {
+    "usd": 0.057,
+    "eur": 0.0497,
+    "requests": 2,
+    "fx": {
+      "rate": 0.871291,
+      "source": "live",
+      "asOf": "Sun, 20 Sep 2026 00:02:31 +0000"
+    }
+  }
+}
