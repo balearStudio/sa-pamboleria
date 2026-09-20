@@ -314,7 +314,9 @@
       "origin": "ig",
       "role": "video-cover",
       "postUrl": "https://www.instagram.com/p/C5guuuGNhh7/",
-      "postedAt": "2024-04-08T19:02:06.000Z"
+      "postedAt": "2024-04-08T19:02:06.000Z",
+      "fileRemoved": true,
+      "removedReason": "Not committed to the public repo: re-hosts an identifiable customer (ig-18) or a third party's Uber Eats watermark (ig-23 to ig-28). Unusable for the site regardless. Source URL retained in manifest.json if it is ever needed again."
     },
     {
       "file": "ig-19.jpg",
@@ -403,7 +405,9 @@
       "origin": "ig",
       "role": "post",
       "postUrl": "https://www.instagram.com/p/CyQDQH3OV6D/",
-      "postedAt": "2023-10-11T07:51:26.000Z"
+      "postedAt": "2023-10-11T07:51:26.000Z",
+      "fileRemoved": true,
+      "removedReason": "Not committed to the public repo: re-hosts an identifiable customer (ig-18) or a third party's Uber Eats watermark (ig-23 to ig-28). Unusable for the site regardless. Source URL retained in manifest.json if it is ever needed again."
     },
     {
       "file": "ig-24.jpg",
@@ -424,7 +428,9 @@
       "origin": "ig",
       "role": "post",
       "postUrl": "https://www.instagram.com/p/CyQDQH3OV6D/",
-      "postedAt": "2023-10-11T07:51:26.000Z"
+      "postedAt": "2023-10-11T07:51:26.000Z",
+      "fileRemoved": true,
+      "removedReason": "Not committed to the public repo: re-hosts an identifiable customer (ig-18) or a third party's Uber Eats watermark (ig-23 to ig-28). Unusable for the site regardless. Source URL retained in manifest.json if it is ever needed again."
     },
     {
       "file": "ig-25.jpg",
@@ -445,7 +451,9 @@
       "origin": "ig",
       "role": "post",
       "postUrl": "https://www.instagram.com/p/CyQDQH3OV6D/",
-      "postedAt": "2023-10-11T07:51:26.000Z"
+      "postedAt": "2023-10-11T07:51:26.000Z",
+      "fileRemoved": true,
+      "removedReason": "Not committed to the public repo: re-hosts an identifiable customer (ig-18) or a third party's Uber Eats watermark (ig-23 to ig-28). Unusable for the site regardless. Source URL retained in manifest.json if it is ever needed again."
     },
     {
       "file": "ig-26.jpg",
@@ -466,7 +474,9 @@
       "origin": "ig",
       "role": "post",
       "postUrl": "https://www.instagram.com/p/CyQDQH3OV6D/",
-      "postedAt": "2023-10-11T07:51:26.000Z"
+      "postedAt": "2023-10-11T07:51:26.000Z",
+      "fileRemoved": true,
+      "removedReason": "Not committed to the public repo: re-hosts an identifiable customer (ig-18) or a third party's Uber Eats watermark (ig-23 to ig-28). Unusable for the site regardless. Source URL retained in manifest.json if it is ever needed again."
     },
     {
       "file": "ig-27.jpg",
@@ -487,7 +497,9 @@
       "origin": "ig",
       "role": "post",
       "postUrl": "https://www.instagram.com/p/CyQDQH3OV6D/",
-      "postedAt": "2023-10-11T07:51:26.000Z"
+      "postedAt": "2023-10-11T07:51:26.000Z",
+      "fileRemoved": true,
+      "removedReason": "Not committed to the public repo: re-hosts an identifiable customer (ig-18) or a third party's Uber Eats watermark (ig-23 to ig-28). Unusable for the site regardless. Source URL retained in manifest.json if it is ever needed again."
     },
     {
       "file": "ig-28.jpg",
@@ -508,7 +520,9 @@
       "origin": "ig",
       "role": "post",
       "postUrl": "https://www.instagram.com/p/CyQDQH3OV6D/",
-      "postedAt": "2023-10-11T07:51:26.000Z"
+      "postedAt": "2023-10-11T07:51:26.000Z",
+      "fileRemoved": true,
+      "removedReason": "Not committed to the public repo: re-hosts an identifiable customer (ig-18) or a third party's Uber Eats watermark (ig-23 to ig-28). Unusable for the site regardless. Source URL retained in manifest.json if it is ever needed again."
     },
     {
       "file": "ig-29.jpg",
@@ -599,6 +613,7 @@
   "gaps": [
     "Owner requested pa amb oli with hand reaching in - not found in collection",
     "No images wider than 1170px (need 2400+ for 'high' resolution hero shots)",
-    "6 images have Uber Eats watermarks (reposted content, unsuitable for branded site)"
+    "6 images have Uber Eats watermarks (reposted content, unsuitable for branded site)",
+    "7 images (ig-18, ig-23 to ig-28) were catalogued but deliberately not committed to this public repo - see fileRemoved on each. 24 image files remain on disk."
   ]
 }
