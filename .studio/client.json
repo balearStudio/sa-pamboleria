@@ -1,0 +1,41 @@
+{
+  "slug": "sa-pamboleria",
+  "companyName": "Sa Pamboleria",
+  "existingWebsite": null,
+  "googleBusiness": {
+    "link": "https://maps.app.goo.gl/CifxmspbkpBnKsNm9",
+    "name": "Sa Pamboleria",
+    "city": "Inca"
+  },
+  "social": {
+    "instagram": "https://www.instagram.com/sapamboleriainca/",
+    "facebook": "https://www.facebook.com/p/Sa-Pamboleria-61552245506876/",
+    "other": []
+  },
+  "languages": [
+    "ca",
+    "es",
+    "en"
+  ],
+  "pageMode": "one-page",
+  "pages": null,
+  "assetPack": ".studio/assets",
+  "moodboard": [
+    {
+      "url": "https://www.awwwards.com/sites/da-maria",
+      "likes": "Overall direction — owner picked it as the lead reference for the site as a whole."
+    },
+    {
+      "url": "https://tacosmyguey.com",
+      "likes": "The product showcase specifically: food shot as a cut-out hero product."
+    },
+    {
+      "url": "https://dribbble.com/shots/27022855-Bunbite-Burger-Restaurant-Landing-Page",
+      "likes": "Liked as a whole — restaurant landing page treatment."
+    }
+  ],
+  "notes": "Language: pick the initial language from the visitor's device language (ca/es/en), with a manual switcher — do not hardcode a single default.\n\nAssets: the owner has no asset pack. All photography must come from the Instagram and Facebook profiles (social scraping is enabled for this reason). The only owner-supplied files are the two menu photographs in .studio/assets/menu/.\n\nMenu (must-have): the site needs its own menu, restyled to match the site rather than shown as the photographed PDF. It should open within the page — an overlay/viewer or similar — not as a separate page (site is one-page). Transcribe prices and dish names from .studio/assets/menu/menu-page-1.png and menu-page-2.png during research. The photographed menu is Spanish-only; the ca and en versions need translating. Sections seen: Per picar, Pa amb Oli, A la Brasa, Ensalades, Peix, Especialitats, Per a nens, Postres casolans.\n\nLogo: no vector or transparent logo exists. The logo appears in both menu photographs ('Sa Pamboleria' script, with 'TERRASSA · PA AMB OLI' and 'CARNS A LA BRASA' curved around it). Owner's suggestion: use Magnific to extract/upscale it into a transparent-background asset for the site and the menu. Treat the approach as open — any route to a clean transparent logo is fine.\n\nHero idea (owner): a professional photograph of a pa amb oli, possibly with a hand reaching for it, cut out on a transparent background — product-showcase treatment in the spirit of the tacosmyguey.com reference.\n\nBudget note: this client's only image source is paid scraping, and the logo and hero both likely need paid generation, against a EUR 3 budget. Expect the ledger to gate; ask the owner before spending rather than skipping the image work silently.",
+  "budgetEur": 3,
+  "socialScrapingEnabled": true,
+  "createdAt": "2026-09-20T00:00:00Z"
+}
