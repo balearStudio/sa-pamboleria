@@ -1,0 +1,50 @@
+{
+  "chosenAt": "2026-09-21T00:00:00Z",
+  "approvedBy": "admin",
+  "references": [
+    {
+      "name": "Da Maria",
+      "url": "https://damaria-roma.webflow.io",
+      "take": "The keyline frame: a single thin rule boxing the entire page, inset from the viewport edge, so the page reads as a printed menu card rather than a web page. Sa Pamboleria's only real brand artefact is a printed menu. Secondary: engraved line illustration used as a recurring motif, and drop caps opening body paragraphs — structure from typography rather than more cards. Display type set enormous and allowed to bleed off both edges. Leave its red-on-cream, which fails contrast at body size (measured 4.1:1 and 4.36:1). Owner's lead reference, recorded at intake for 'the site as a whole'."
+    },
+    {
+      "name": "Etxebarri",
+      "url": "https://asadoretxebarri.com",
+      "take": "It opens on the building, not the meat — a stone wall, a window, a grill pan on a hook, wordmark small and white in the corner. The most famous charcoal-grill restaurant in the world leads with place, which is permission for Sa Pamboleria to lead with its terrace. Also: display type very large and very light over a quiet neutral text face, and practical facts handled as icon + label + one short paragraph in two columns rather than a bullet list."
+    },
+    {
+      "name": "Caffe Gilli",
+      "url": "https://www.caffegilli.com/en",
+      "take": "Adjacent field: a historic family cafe (est. 1733) presented contemporarily — the same problem this client has. Take hands in the frame, doing the work: a hand piping cream onto a pastry, a hand reaching for the plate on marble, warm low light, shallow depth. The most direct evidence that the owner's hero instinct works photographically on a shipped site rather than only as an illustration. Also an /en language structure for a multilingual traditional business. Leave the cookie wall covering a third of the landing view."
+    },
+    {
+      "name": "Bunbite + Tacos My Guey",
+      "url": "https://dribbble.com/shots/27022855-Bunbite-Burger-Restaurant-Landing-Page",
+      "take": "The owner's other two references, making one point: food cut out of its background and floated on a flat colour field, and in Bunbite's case a hand holding the food. Put beside Caffe Gilli this is the thread running through all three of the owner's references — the hero idea is not a whim, it is the move their taste keeps returning to, and it should be treated as a standing request. Take the product treatment and nothing else: Tacos My Guey sets body text in condensed display caps and has measurable horizontal overflow at desktop; Bunbite is an unbuilt concept with starburst badges and a rewards economy."
+    },
+    {
+      "name": "Son Daven",
+      "url": "https://sondaven.com/en",
+      "take": "Regional culture made contemporary without turning the region into rustic decoration — Awwwards Site of the Month, June 2026. Reported as a two-colour scheme of warm taupe against deep charcoal with illustration used as a structural layer alongside photography. WEAKER EVIDENCE: the site is WebGL-heavy and defeated three capture attempts, so there is no screenshot and this is recorded from its Awwwards entry. Worth opening directly at the design stage."
+    }
+  ],
+  "competitor": {
+    "name": "Cas Teuler",
+    "url": "https://www.casteuler.com/carne/",
+    "differBy": "Their hero already says 'CARNES A LA BRASA' — the same sentence as Sa Pamboleria's own printed logo line — backed by commissioned studio photography (a chuleton over live flames, backlit) against this client's flat-lit 1080px phone shots. The clash is the proposition, not the styling, so leading on grilled meat makes Sa Pamboleria the second Mallorcan restaurant saying the same thing with worse pictures. Differentiate on the bread and the terrace: Cas Teuler has no pa amb oli, no terrace, no daylight and no people. They also have no typographic voice — h1 at 20px, tracked-out caps eyebrows above every heading, a nine-up grid of near-identical dark meat shots."
+  },
+  "subject": "A family-run Mallorcan restaurant named after pa amb oli — they make thirteen versions of it — that also runs a charcoal grill, and serves both from a covered terrace under thatched palm-frond parasols in a residential neighbourhood of Inca, to locals who review them in Catalan and talk about portions rather than presentation. The two most characteristic things they own are the rubbed-tomato bread built thirteen ways and that terrace; neither appears on any competitor's site.",
+  "colourEvidence": "Sampled from the pixels, recorded in board.md, and offered as evidence rather than as a palette. The wordmark: recovered from a photograph of the printed menu by white-balancing against the paper's own white point (the blue cast was severe enough that white paper read as #A6B9EE), giving a slate navy around #364966, core #2E4162 — the only real brand colour the client has. The terrace (ig-02): olive wood #735F41, gravel #846B49, thatch #43331B, cream wall #DBC090, foliage #6B7635, tablecloth white #FBFBF7. The grill (ig-09, the sharpest file and the only one shot on a dark ground): slate #070307, aged burgundy #8E4C56, salt #EBEBEE. The food generally (ig-12, ig-14, ig-30): 88-94% of pixels fall in the red-to-amber band — sobrassada red #9E2124, ember #D88047, oil amber #D5A761, bread #B77348.",
+  "imageIdeas": [
+    "THE OWNER'S HERO, standing request: a cut-out pa amb oli, ideally with a hand reaching for it. Reinforced by all three of the owner's references and by Caffe Gilli. Feasibility was tested out-of-stage and is known: ig-11 (lamb chops on pa amb oli, plate rim visible on three sides) enhances well — a Magnific 2x pass at EUR 0.0024 produced a sharper, truer file with nothing invented, kept at .studio/moodboard/images/ig-11-upscaled.jpg. Magnific's background-removal endpoint returns HTTP 403 on this API key, so a local saturation mask was used instead; it isolates the food WITHOUT its plate and reads well on a dark field (images/cutout-on-dark.jpg). So the cut-out is achievable as a plateless food object rather than a cut-out plate. No hand-reaching photograph exists in the pack, and there is no Nano Banana / Gemini tooling in this pipeline to generate one.",
+    "A clean vector wordmark. Blocking for any direction that shows the logo large. The full lockup has been extracted at native resolution to .studio/moodboard/images/logo-source-isolated.png (navy ink alone, watercolour wash and vegetable illustration masked out, on white) plus -alpha.png and -balanced.png. Measured ink area is only 447x350px. Hand the isolated file to Magnific. The cheapest and best route is still unasked: does the menu's designer still have the source file?",
+    "Paint the baked-in script wordmark out of ig-02, if the terrace photograph is used prominently. It is a large white overlay, not a crop problem, and fb-01 is the same frame — so ig-02 is the only usable terrace shot.",
+    "Desserts: four homemade cakes are on the menu and no photograph of any of them exists.",
+    "People: no usable photograph of a person exists — the one that does shows an identifiable customer."
+  ],
+  "adjustments": [
+    "Owner corrected the first logo extraction as clipped: it cut the P swash, both curved arcs and the flanking dots. Re-extracted by detecting the navy ink's own colour rather than by guessing coordinates, and verified against the ink bounding box with no edge contact. Three prepared files now cover the complete lockup.",
+    "Reference search was redone. The first pass searched the client's trade plus the client's town ('restaurant Inca Mallorca carns a la brasa'), which returns local businesses with bad websites and teaches the design nothing. Replaced with international work in the same field (Etxebarri, Son Daven) and adjacent fields solving the same problem (Caffe Gilli — a historic family establishment presented contemporarily).",
+    "An earlier version of this stage produced rendered HTML directions with named typefaces, hex palettes and registry checks. That is not this stage's job — palette, typography, layout and motion are decided at /ewf:design from better inputs. The artefact is retained at .studio/moodboard/_superseded/ with a README stating it is not an input to any later stage, so nothing downstream inherits choices nobody made."
+  ]
+}
